@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace spoon_knife_project
+{
+    public partial class Contact : Page
+    {
+        //hello world!!
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
